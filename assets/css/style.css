@@ -30,9 +30,19 @@ a { color:blue; text-decoration: none;}
     border-left: solid 1px #cdcdcd;
     padding-left: 15px;
 }
+
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
+
 figure {
     text-align: center;
+}
+
+.logo{
+    background-color: black;
+}
+
+.footer{
+    background-color: black;
 }
